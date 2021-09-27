@@ -12,9 +12,9 @@
 
 THIS IS `text`.
 
-..
-this is qutoe.
-..
+...
+this is qutoe
+...
 
 [我的網頁](https://www.nkust.edu.tw/)
 
