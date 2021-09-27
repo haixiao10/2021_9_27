@@ -23,5 +23,7 @@ this is qutoe
 
 
 - [x] this is checked
+- [ ] undo
 - [ ] 2nd job
 - [ ] 3nd job
+- [ ] 4nd job
