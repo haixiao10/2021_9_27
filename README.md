@@ -12,9 +12,9 @@
 
 THIS IS `text`
 
-...
+`...
 this is a long quote
-...
+...`
 
 [我的網頁](https://www.nkust.edu.tw/)
 
