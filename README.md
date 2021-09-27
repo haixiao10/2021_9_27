@@ -10,11 +10,14 @@
 
 ##### 題目：暫時沒有
 
-THIS IS 'TEXT'
+THIS IS 'TEXT'.
+....
+this is qutoe
+.....
 
 [我的網頁](https://www.nkust.edu.tw/)
 
 ![8888](https://github.com/haixiao10/2021_9_27/blob/main/8888.jpg)
 
 
--[x] this is checked
+- [x] this is checked
