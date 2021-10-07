@@ -44,6 +44,8 @@ Strikethrough use two tildes.~~Seratch this~~.
 >> ..2. 2nd
 > 4. And another item.
 >> ...* note 1
+>> 
 >> ...* note 2
->> ...* note 3
+>> 
+>> *** note 3
 >> 
