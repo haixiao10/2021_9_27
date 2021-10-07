@@ -28,3 +28,12 @@ this is a long quote
 - [ ] 2nd job
 - [ ] 3nd job
 - [ ] 4nd job
+
+Emphasis, aka italics, with asterisks or underscores.
+Strong emphasis,aks bold, wtih **asterisks** or **underscores**.
+Combined emphasis with **asterisks and underscores**.
+Strikethrough use two tildes.~~Seratch this~~.
+
+1. First ordered list item
+2. Another item
+  
