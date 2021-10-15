@@ -1,18 +1,11 @@
+### Mermaid
 ```mermaid
 gantt
-    title 甘特圖
-    
+    title A Gantt Diagram
 
     section Section
-    
-    研擬計畫           :A1,2021-01-01,1d
-    任務分配           :A2,after A1,4d
-    取得硬體           :A3,after A1,17d
-    程式開發           :A4,after A2,70d
-    安裝硬體           :A5,after A3,10d
-    程式測試           :A6,after A4,30d
-    撰寫使用手冊        :A7,after A5,25d
-    轉換檔案           :after A5,20d
-    系統測試           :A8,after A6,25d
-    使用者訓練         :after A7,20d
-    使用者測試         :after A8,25d
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    anther task      : 24d
